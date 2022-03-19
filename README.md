@@ -1,6 +1,7 @@
-# SMTP Packet analyzer tool is basically a tool that allows a connection between a client and 
-# server and then it extracts all the relative information such as Ip & Mac and connection type and 
-# way more
+# SMTP-Packet-analyzer-tool
+ SMTP Packet analyzer tool is basically a tool that allows a connection between a client and 
+ server and then it extracts all the relative information such as Ip & Mac and connection type and 
+ way more
 
 
 # SMTP-Packet-analyzer-tool
